@@ -1,3 +1,5 @@
+Data Manipulation and Reporting with Power BI.
+
 Led the development of an interactive and consolidated Power BI report for Zomato, a global restaurant aggregation and meal delivery service. The project involved integrating data from multiple Excel files representing various continents to provide a unified view of global operations. 
 
 Key achievements included:
